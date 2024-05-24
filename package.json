@@ -1,5 +1,5 @@
 {
-	"name": "@a0thibaul/builder",
+	"name": "@a0thibault/builder",
 	"version": "0.1.67",
 	"scripts": {
 		"dev": "vite dev",
